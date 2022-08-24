@@ -1,4 +1,4 @@
-# supervised-machine-learning
+# loan-approval-predictor
 
 This analysis tests the performance of two models, a logistic regression model and a random forest classifier model, to predict whether or not a loan would be approved based on features such as the size of the loan, the borrower's income, the borrower's total debt, among other features. Both models were able to predict whether or not a loan would be approved to almost 100% accuracy, although the random forest classifier model performed modestly better. 
 
